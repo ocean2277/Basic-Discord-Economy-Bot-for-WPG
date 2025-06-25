@@ -1,0 +1,31 @@
+{
+  "voiceChannelId": "",
+  "progressRoles": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "auditWebhookUrl": "",
+  "webhookId": "",
+  "webhookToken": "",
+  "adminRoleId": "",
+  "TOKEN": "",
+  "cur": "",
+  "guildId": "",
+  "investmentResultChannelId": "",
+  "spyCategoryId": "",
+  "satelliteResultChannelId": "",
+  "incomeRoles": [
+    {
+      "roleId": "ROLE_ID_1",
+      "amount": 100
+    },
+    {
+      "roleId": "ROLE_ID_2",
+      "amount": 200
+    }
+  ]
+}

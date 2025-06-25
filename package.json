@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^14.19.3",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.6.0",
+    "path": "^0.12.7",
+    "sanitize-html": "^2.17.0",
+    "sqlite3": "^5.1.7",
+    "uuid": "^11.1.0"
+  }
+}
